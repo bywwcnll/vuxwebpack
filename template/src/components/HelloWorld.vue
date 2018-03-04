@@ -1,7 +1,7 @@
 <template>
   <div class="container">
     <x-header>VUX</x-header>
-    <div class="remain">{{msg}}</div>
+    <div class="remain">\{{msg}}</div>
   </div>
 </template>
 
